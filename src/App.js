@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <h1>ThisReact testing</h1>
       <button>dsfgdf</button>
-      <Button>Banglanpm install react-router-dom</Button>
+      <Button>Bangla</Button>
     </div>
   );
 }
